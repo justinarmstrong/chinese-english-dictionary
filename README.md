@@ -4,7 +4,7 @@ Chinese-English Dictionary for Qt
 v1.1 12 April 2008
 ------------------
 
-This application is a Chinese<->English dictionary app built using Qt 5 and Qt Quick Components 2.
+This application is a Chinese<->English dictionary app built using Qt 5 and Qt Quick Controls 2.
 It uses the dictionary data compiled by the [CC-CEDICT](https://cc-cedict.org/wiki/) project.
 
 This application is based on ["Chinese-English Dictionary for N9"](http://badpint.org/chinesedict/), which was written for Nokia's short-lived MeeGo OS.
