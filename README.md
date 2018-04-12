@@ -15,10 +15,11 @@ So far it has been tested on Android.
 
 Features
 --------
-- Search by English or Chinese, using characters or Pinyin (with or without tones)
+- Search by English or Chinese (characters/Pinyin)
+- Pinyin search strings can be tonemarked (e.g.'zhīdào'), toneless ('zhidao') or with tone numbers ('zhi1dao4')
 - Works completely offline
 - Supports simplified or traditional characters
-- Customisable support for tone colouring of characters and Pinyin
+- Support for customisable tone colouring of characters and Pinyin
 
 Usage should be pretty self-explanatory.
 
