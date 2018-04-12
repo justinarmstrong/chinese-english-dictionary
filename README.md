@@ -11,8 +11,7 @@ This application is based on ["Chinese-English Dictionary for N9"](http://badpin
 
 So far it has been tested on Android.
 
-![Search page] (screenshot1.png)
-![details page] (screenshot2.png)
+![screenshot](screenshot1.png)
 
 Features
 --------
