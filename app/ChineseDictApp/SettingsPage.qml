@@ -87,7 +87,7 @@ Pane {
                             font.pixelSize: 16
                             fontSizeMode: Text.Fit
                             text: "© 2012, 2018 Justin Armstrong<br>" +
-                                  "<a href='http://badpint.org/chinesedict'>Application website</a><br>" +
+                                  "<a href='https://github.com/justinarmstrong/chinese-english-dictionary'>Application website</a><br>" +
                                   "Uses dictionary information from the " +
                                   "CC-CEDICT project"
                             onLinkActivated: {
