@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>utils.js</file>
+        <file>UIConstants.js</file>
+        <file>SingleLineDef.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>SearchPage.qml</file>
+        <file>FavouritesPage.qml</file>
+        <file>EnglishColumn.qml</file>
+        <file>DetailsPage.qml</file>
+        <file>DefinitionsColumn.qml</file>
+        <file>DefBlock.qml</file>
+        <file>CustomColorDialog.qml</file>
+        <file>ColorButton.qml</file>
+        <file>ChineseDef.qml</file>
+        <file>BigListDelegate.qml</file>
+        <file>background.png</file>
+        <file>ic_search_48px.svg</file>
+        <file>ic_settings_48px.svg</file>
+        <file>ic_star_border_24px.svg</file>
+        <file>ic_star_24px.svg</file>
+        <file>ic_arrow_back_24px.svg</file>
+        <file>ic_cancel_48px.svg</file>
+        <file>ic_undo_48px.svg</file>
+    </qresource>
+</RCC>
