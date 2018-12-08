@@ -1,7 +1,7 @@
 Chinese-English Dictionary for Qt
 =================================
 
-v1.1 12 April 2008
+v1.1 12 April 2018
 ------------------
 
 This application is a Chinese<->English dictionary app built using Qt 5 and Qt Quick Controls 2.
